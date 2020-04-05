@@ -1,0 +1,19 @@
+.bg-custom{
+	background: #cdb7b5;
+}
+.navbar-light .navbar-nav .active>.nav-link{
+	color:black;
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#a52a2a;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:white;
+}
+
+.navbar-light .navbar-brand{
+	font-weight: bold;
+}
+.content{
+	margin-top: 20px;
+}
